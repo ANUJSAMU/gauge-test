@@ -1,0 +1,40 @@
+# Enter mandatory Order details
+* Select adv. Unit as "1531"
+* Select a GCI number "Dillars"
+* Select an Account 
+* Enter the Order description
+
+# Modify the Order details
+* Change Order description as "Update Order"
+
+# Search for an Order
+* Go to Search under Orders menu
+* Search for the Order
+
+# Fill in <preprint_type> Preprint type specific details
+* Check Preprint type is <preprint_type>
+
+# Fill in line item common details
+* Enter Distribution as "35000"
+* Select Global Piece ID
+
+# Fill in Sub-product as <sub-product>, preprint type as <preprint_type> and production date as <date>
+* Select Sub-product as <sub-product>, preprint type as <preprint_type> and production date as <date>
+* Click Add line item button
+* New Line item form should be displayed
+
+# Create a new Order
+* Go to New under Orders menu
+* Enter mandatory Order details
+* Submit the form
+* New Order should be created
+
+# Add a line item
+* Search for an Order
+* Fill in Sub-product as "product", preprint type as "Sticky Notes" and production date as "future"
+* Fill in line item common details
+* Fill in "Preprint" Preprint type specific details
+* Select a zone
+* Select a zip code
+* Submit the form
+* Successful flash message should be displayed
